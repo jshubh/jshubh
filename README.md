@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jshubh
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning How to make app using android atudio
+- 🌱 I’m currently learning How to make webapp using React
 - 💞️ I’m looking to collaborate on android project
 - 📫 How to reach me ..
 
